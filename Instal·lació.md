@@ -2,3 +2,39 @@
 
 
 ```curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg ```
+
+
+```sudo cp /usr/share/keyrings/microsoft-prod.gpg  /etc/apt/trusted.gpg.d/ ```
+
+
+```curl -fsSL https://packages.microsoft.com/config/ubuntu/22.04/mssql-server-2022.list | sudo tee /etc/apt/sources.list.d/mssql-server-2022.list```
+
+
+```sudo apt-get update```
+
+
+```sudo apt-get install -y mssql-server```
+
+
+```sudo /opt/mssql/bin/mssql-conf setup```
+
+
+```systemctl status mssql-server --no-pager```
+
+
+```curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/mssql-release.list```
+
+
+```sudo apt-get update ```
+
+
+```sudo apt-get install mssql-tools18 unixodbc-dev ```
+
+
+```sqlcmd -S localhost -U sa -P 'P@ssw0rd!' ```
+
+
+```SELECT name FROM master.dbo.sysdatabases ```
+
+
+```sudo ufw allow 1433 ```
