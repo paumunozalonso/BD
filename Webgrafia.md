@@ -23,8 +23,18 @@
 
 
 <https://www.geeksforgeeks.org/difference-between-mariadb-and-ms-sql-server/>
-  
+
+
 # Apartats
 
 
 <https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-mssql-conf?view=sql-server-ver16>
+
+
+# Instal·lació
+
+
+<https://learn.microsoft.com/es-es/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204>
+
+
+<https://youtu.be/T3sXphWAPOs?si=OEjx20L6Ynh9Yaj1>
