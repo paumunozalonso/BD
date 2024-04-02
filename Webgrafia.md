@@ -1,8 +1,9 @@
 # Història
-<https://sqlservada.blogspot.com/2012/11/sql-y-su-historia-la-historia-de-sql.html>
-<br>
+
+<p><https://sqlservada.blogspot.com/2012/11/sql-y-su-historia-la-historia-de-sql.html></p>
+
 <https://www.computerweekly.com/es/definicion/Microsoft-SQL-Server>
-<br>
+
 <https://www.ibm.com/es-es/topics/relational-databases#:~:text=La%20principal%20ventaja%20del%20enfoque,agrupar%20y%20tambi%C3%A9n%20combinar%20consultas.>
 <br>
 <https://www.arsys.es/soporte/cloud-y-servidores/sql-server-cual-necesita-mi-proyecto>
