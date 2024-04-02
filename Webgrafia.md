@@ -1,6 +1,5 @@
 # Història
 ___
-<br>
 <https://sqlservada.blogspot.com/2012/11/sql-y-su-historia-la-historia-de-sql.html>
 <br>
 <https://www.computerweekly.com/es/definicion/Microsoft-SQL-Server>
@@ -16,8 +15,5 @@ ___
 <https://www.influxdata.com/comparison/mariadb-vs-sqlserver/#:~:text=MariaDB%20can%20be%20deployed%20on,SQL%20Database)>
 <br>
 <https://www.geeksforgeeks.org/difference-between-mariadb-and-ms-sql-server/>
-<br>
 # Apartats
-___ 
-<br>
 <https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-mssql-conf?view=sql-server-ver16>
