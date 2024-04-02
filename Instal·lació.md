@@ -1,5 +1,6 @@
 # Instal·lació
 
+Descarreguem la clau GPG de Microsoft des del servidor i l'exportem a un arxiu.
 
 ```curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg ```
 
