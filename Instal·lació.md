@@ -4,6 +4,7 @@ Descarreguem la clau GPG de Microsoft des del servidor i l'exportem a un arxiu.
 
 ```curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg ```
 
+Movem l'arxiu anterior a la carpeta on APT busca les claus de confiança dels repositoris.
 
 ```sudo cp /usr/share/keyrings/microsoft-prod.gpg  /etc/apt/trusted.gpg.d/ ```
 
