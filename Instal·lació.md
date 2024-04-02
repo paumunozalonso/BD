@@ -43,4 +43,4 @@
 # Videoinstal·lació
 
 [Instal·lació via terminal]( https://asciinema.org/a/VzjwT4jeIrALCy2HiUl0adpQ5)
->Avançar des del segon 15 fins al 9:57 a causa d'un bug de gravació
+>Avançar des del segon 15 fins al minut 9:57 a causa d'un bug de gravació
