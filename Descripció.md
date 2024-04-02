@@ -31,3 +31,5 @@ Com en tota classe de negocis, sempre existeixen productes similars que creen un
 Un altre programari pot ser el cas de MariaDB, la gran diferència pot ser per exemple, la seva llicència d'ús, mentre que MariaDB és un programari totalment lliure, SQL Server és comercial. Tornem a comparar en què sistemes operatius es poden instal·lar, on SQL Server solament està disponible per Linux i Windows, MariaDB pot ser instal·lat en FreeBSD, Linux, Solaris i Windows. En un altre aspecte, MariaDB admet dos mètodes de replicació com la replica mestre-mestre i la replica mestre-esclau, on, per un altre costat, SQL Server també admet la rèplica, però depèn de la versió SQL Server.
 
 En conclusió, hi existeixen diferents bases de dades d'un mateix sector que són similars i d'una manera o un altre compleixen el mateix objectiu que és crear i gestionar dades, per tant, l'empresa o persona és la que decideix quin "programa" és el millor per les seves necessitats o interessos.
+
+![SQL](https://media.licdn.com/dms/image/D4E12AQH0uDlyLCqFDA/article-cover_image-shrink_600_2000/0/1691146795191?e=2147483647&v=beta&t=qv2kg55ldEs2i6_a57w_QaHdV3q2numrL7yQ6vUMPao)
