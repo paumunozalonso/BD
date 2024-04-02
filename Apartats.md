@@ -21,10 +21,22 @@ Apagar servei: systemctl stop mssql-server
 
 ***El servei de SGBD escollit en quins ports escolta. Quina modificació/passos caldrien fer per canviar aquest port a un altre per exemple? Important: No realitzis els canvis. Només indica els passos que faries.***
 
+Editem el fitxer de configuració indicant el nou port
 
+```sudo /opt/mssql/bin/mssql-conf set network.tcpport <new_tcp_port>```
+
+Reiniciem el servei
+
+```sudo systemctl restart mssql-server```
+
+Provem a accedir a la base de dades amb el nou port
+
+```sqlcmd -S localhost,<new_tcp_port> -U test -P test ```
 
 ***Incloure en la documentació un petit apartat a on s'expliqui com realitzar la connexió a la BD. Demostra que us podeu connectar al SGBD a través d’una eina de gestió de BD o  a través d’un programa.***
 
-
+[Demostració](https://drive.google.com/file/d/1IfvtZyMmU2-tuAvv9whRb3NrH3jyleNd/view?usp=sharing )
 
 ***Quin tipus de SGBD? (Relacional, no relacional, graf, document,....)***
+
+És un sistema relacional, que està dissenyat per gestionar i relacionar dades estructurades.
