@@ -1,5 +1,4 @@
 # Història
-___
 <https://sqlservada.blogspot.com/2012/11/sql-y-su-historia-la-historia-de-sql.html>
 <br>
 <https://www.computerweekly.com/es/definicion/Microsoft-SQL-Server>
