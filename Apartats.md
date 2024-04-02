@@ -4,15 +4,18 @@
 
 ***Quines són les instruccions per arrancar / verificar status / apagar servei de la base de dades del SBGB escollit a nivell sistema operatiu?***
 
+Arrancar: systemctl start mssql-server
+Verificar status: systemctl status mssql-server
+Apagar servei: systemctl stop mssql-server
 
 
 ***A on es troba i quin nom rep el fitxer de configuració del SGBD escollit?***
 
-
+/opt/mssql/bin/mssql-conf
 
 ***A on es troben físicament els fitxers de dades (per defecte). Com ho has sabut?***
 
-
+/var/opt/mssql/data
 
 ***El servei de SGBD escollit en quins ports escolta. Quina modificació/passos caldrien fer per canviar aquest port a un altre per exemple? Important: No realitzis els canvis. Només indica els passos que faries.***
 
