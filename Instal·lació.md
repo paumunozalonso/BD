@@ -38,3 +38,8 @@
 
 
 ```sudo ufw allow 1433 ```
+
+
+# Videoinstal·lació
+
+[Instal·lació via terminal]( https://asciinema.org/a/VzjwT4jeIrALCy2HiUl0adpQ5)
