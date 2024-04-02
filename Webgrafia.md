@@ -16,3 +16,4 @@
 <https://www.geeksforgeeks.org/difference-between-mariadb-and-ms-sql-server/>
 # Apartats
 <https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-mssql-conf?view=sql-server-ver16>
+<https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-mssql-conf?view=sql-server-ver16>
