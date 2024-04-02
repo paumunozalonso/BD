@@ -17,7 +17,7 @@ Apagar servei: systemctl stop mssql-server
 
 /var/opt/mssql/data
 
-![Captura](C:\Users\paumu\Downloads\Captura.PNG)
+![Captura](https://drive.google.com/file/d/1FfkRvp5XoTMYbYUFs-dBICb_JUcqhlSH/view?usp=sharing)
 
 ***El servei de SGBD escollit en quins ports escolta. Quina modificació/passos caldrien fer per canviar aquest port a un altre per exemple? Important: No realitzis els canvis. Només indica els passos que faries.***
 
