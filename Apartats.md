@@ -1,6 +1,22 @@
 ***Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació.***
 
-Per realitzar una protecció de la instal·lació podem utilitzar SQL Server Configuration Manager, ja que aquesta eina permet configurar diversos apartats de seguretat com l'autentificació, permisos d'accés, dades xifrades...
+Per realitzar una protecció de la instal·lació podem utilitzar SQL Server Configuration Manager, ja que aquesta eina permet configurar diversos apartats de seguretat com l'autentificació, permisos d'accés, dades xifrades...  
+
+Per exemple, podem configurar els permisos dels rols, grups, usuaris...
+![Captura](/../images/seguretat.png)  
+
+Una altra mesura de seguretat és la configuració i visualització dels logs.
+![Captura](/../images/seguretat2.PNG)    
+
+![Captura](/../images/seguretat3.PNG)  
+
+Cal destacar també l'autentificació per poder accedir al servidor.
+
+![Captura](/../images/seguretat4.PNG) 
+
+I per acabar també podem veure la configuració de les polítiques i certificats entre altres mesures.
+
+![Captura](/../images/seguretat5.PNG) 
 
 
 ***Quines són les instruccions per arrancar / verificar status / apagar servei de la base de dades del SBGB escollit a nivell sistema operatiu?***
